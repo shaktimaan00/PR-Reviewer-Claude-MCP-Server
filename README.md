@@ -1,5 +1,3 @@
-Here’s a **README.md** you can drop into the root of your `pr_reviewer` project. It follows common conventions and documents every step from setup to running the MCP-powered PR review server:
-
 # PR Reviewer (MCP Demo Project)
 
 A Model Context Protocol (MCP)–powered server that connects Claude Desktop, GitHub, and Notion to automate pull-request reviews.  
