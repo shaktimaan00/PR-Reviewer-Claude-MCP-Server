@@ -173,9 +173,3 @@ The server will stream results over stdio (or your chosen transport) back to the
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-```
-
-Feel free to tweak sections (e.g. examples, badges, license) to match your preferences. Let me know if you need anything else!
-::contentReference[oaicite:0]{index=0}
-```
